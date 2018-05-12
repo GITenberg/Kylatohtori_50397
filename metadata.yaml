@@ -1,15 +1,21 @@
 _repo: Kylatohtori_50397
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Lyyli W.
     gutenberg_agent_id: '45877'
     url: http://www.gutenberg.org/2009/agents/45877
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Svietla, Karolina
     gutenberg_agent_id: '45876'
     url: http://www.gutenberg.org/2009/agents/45876
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50397#Kylatohtori
 gutenberg_issued: '2015-11-06'
 gutenberg_type: Text
 identifiers:
